@@ -1,0 +1,32 @@
+
+#InputModule .text-center{
+    font-family: "微軟正黑體";
+    font-weight: bold;
+    color: rgb(64, 67, 68);
+}
+
+#InputModule .text{
+    font-family: "微軟正黑體";
+    font-weight: bold;
+}
+#InputModule .cont{
+    font-family: "微軟正黑體";
+    font-weight: bold;
+}
+#InputModule .question{
+    font-weight: bold;
+    font-family: "微軟正黑體";
+    color: rgb(128, 128, 128);
+}
+
+
+#InputModule .container .context{
+    font-weight: bold;
+    font-family: "微軟正黑體";
+    color: rgb(128, 128, 128);
+    width:inherit;
+    height: 180px;
+}
+#InputModule .container .btn {
+    margin-left:5px;
+}
